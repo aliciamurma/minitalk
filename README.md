@@ -16,4 +16,5 @@ BONUS
 
 
 (1) El servidor confirma cada señal recibida mandando una señal al cliente.
+
 (2) Soporta caraceres UNICODE ( ❤️ )
