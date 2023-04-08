@@ -1,5 +1,5 @@
 # minitalk
-
+### MANDATORY
 Objetivo: Crear un programa de comunicación en la forma de un cliente y un servidor.
 
 El servidor debe lanzarse primero, tras lanzarse debe mostrar su PID.
@@ -12,7 +12,7 @@ Solo se pueden utilizar las señales: SIGUSR1 y SIGUSR2.
 
 
 
-## BONUS
+### BONUS
 
 
 (1) El servidor confirma cada señal recibida mandando una señal al cliente.
